@@ -6,7 +6,7 @@ module.exports = {
     screen: {
       'sm': '640px',
       'md': '768px',
-      'lg': '1440px',
+      'lg': '1024px',
     },
     extend: {
       fontFamily: {
